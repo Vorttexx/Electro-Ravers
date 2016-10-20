@@ -12,6 +12,12 @@
 
 #chat-messages .fromID-3576967 .badge-box i,
 #chat-messages .cm:not(.rsshit).id-3576967 .badge-box i {
-    background-image: url(https://i.ytimg.com/vi/-JhwxTen6yA/hqdefault.jpg);
+    background-image: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/badge%20dorito30x30_zps6wp1s3nn.png);
+    background-size: cover;
+}
+
+#chat-messages .fromID-6260837 .badge-box i,
+#chat-messages .cm:not(.rsshit).id-6260837 .badge-box i {
+    background-image: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/badgedani30x30_zpsssyfkbdk.png);
     background-size: cover;
 }
