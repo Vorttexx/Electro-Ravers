@@ -21,3 +21,21 @@
     background-image: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/badgedani30x30_zpsssyfkbdk.png);
     background-size: cover;
 }
+
+#chat-messages .fromID-4471654 .badge-box i,
+#chat-messages .cm:not(.rsshit).id-4471654 .badge-box i {
+    background-image: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/4818c987c6552683b3761727a6f118cd_zpsfqb0rdr7.gif);
+    background-size: cover;
+}
+
+#chat-messages .fromID-6380879 .badge-box i,
+#chat-messages .cm:not(.rsshit).id-6380879 .badge-box i {
+    background-image: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/montercatfredyy30x30_zpseog1218p.png);
+    background-size: cover;
+}
+
+#chat-messages .fromID-19015446 .badge-box i,
+#chat-messages .cm:not(.rsshit).id-19015446 .badge-box i {
+    background-image: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/recorcho30x30_zpsfk3ekqsg.png);
+    background-size: cover;
+}
