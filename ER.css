@@ -1,11 +1,6 @@
 @import url("https://rawgit.com/Vorttexx/Electro-Ravers/master/badges.css");
 
 
-#user-menu .avatar {
-  background: linear-gradient(rgba(0,0,0,0)70%, hsla(140,50%,90%,0.4) 80%),
-  linear-gradient(hsl(200,70%,20%), hsl(140,70%,20%)) !important;
-  box-shadow: inset 0 0 30px #000;
-}
 
 .app-header, #app-menu.in-room, #search {
   background: linear-gradient(hsla(210,10%,20%,0), hsla(210,0%,15%,0));
