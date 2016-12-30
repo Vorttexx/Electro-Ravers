@@ -1,8 +1,216 @@
 @import url("https://rawgit.com/Vorttexx/Electro-Ravers/master/badges.css");
 
 
-/*discord*/
+#user-menu .avatar {
+  background: linear-gradient(rgba(0,0,0,0)70%, hsla(140,50%,90%,0.4) 80%),
+  linear-gradient(hsl(200,70%,20%), hsl(140,70%,20%)) !important;
+  box-shadow: inset 0 0 30px #000;
+}
+
+.app-header, #app-menu.in-room, #search {
+  background: linear-gradient(hsla(210,10%,20%,0), hsla(210,0%,15%,0));
+        border-right: transparent;
+        box-shadow: none;
+}
+.app-header {
+  box-shadow: 0px 0px 1px #A4A4A4;
+} 
+
+.app-header #history-button {
+  background: linear-gradient(hsla(210,10%,20%,0), hsla(210,0%,15%,0));
+        box-shadow: none;
+}
+.header-panel-button {
+        border-right: none;        
+
+}
+.app-header #header-panel-bar .selected, .app-header #history-button.selected {
+  background: linear-gradient(hsla(210,10%,20%,0), hsla(210,0%,15%,0));
+}
+#footer {
+  box-shadow: 0px 0px 1px #A4A4A4;
+        background: rgba(40,44,53,0);
+
+}
+
+#footer .chevron:before, #footer .chevron:after {
+  background: none!important;
+}
+#footer #your-next-media.in-history {
+  color: hsla(10,80%,55%,0.7);
+       
+
+}
+#footer .back {
+  background: linear-gradient(hsla(210,10%,30%,0), hsla(210,10%,20%,0)) !important;
+}
+#footer-user .buttons .button:hover, #footer .back:hover {
+  background: radial-gradient(hsl(200,100%,60%), hsl(200,100%,30%)) !important;
+  box-shadow: inset 0 0 1px 2px hsla(0,0%,100%,0.3) !important;
+}
+#footer-user .buttons .button {  
+        box-shadow: none;
+
+}
+#footer-user .buttons .button.inventory:hover .thumb {
+  border-color: #5bf !important;
+  box-shadow: none !important;
+}
+#footer-user .info {
+  background: linear-gradient(hsla(210,5%,10%,0.8), hsla(210,5%,5%,0.8));
+  text-shadow: 0 0 5px #000;
+}
+#footer-user .name span {
+  font-weight: bold;
+}
+#footer-user .info .meta .bar .progress {
+  box-shadow: 0 0 10px hsl(205,100%,50%) !important;
+}
+#footer-user .info .points .pp {
+  color: hsl(200,100%,70%);
+}
+
+
+
+#playlist-button {
+  background: transparent;
+        box-shadow: none;
+}
+#playlist-import, #playlist-create {
+  background: linear-gradient(135deg, hsl(205,10%,30%), hsl(205,10%,20%));
+}
+#playlist-import:hover, #playlist-create:hover {
+  background: linear-gradient(hsl(205,80%,50%), hsl(205,80%,40%));
+}
+
+
+
+#playlist-button {
+  background: transparent;
+        box-shadow: none;
+}
+#playlist-import, #playlist-create {
+  background: linear-gradient(135deg, hsl(205,10%,30%), hsl(205,10%,20%));
+}
+#playlist-import:hover, #playlist-create:hover {
+  background: linear-gradient(hsl(205,80%,50%), hsl(205,80%,40%));
+}
+
+
+
+
+#user-menu, #room-settings-menu, #playlist-menu {
+  background: rgba(0,0,0,0.6);
+}
+#user-view, #dashboard, #room-settings, #media-panel, #playlist-panel, #history-panel {
+  background: linear-gradient(hsla(210,10%,7%,0.1), hsla(210,10%,5%,0.1)) !important;
+}
+
+
+
+#media-panel .media-list.playlist-media .meta {
+  border-bottom: #282c35 1px solid !important;
+}
+
 
 .app-right {
-  background: rgba(0,0,0,3) !important;
+  background: rgba(0,0,0,0.5) !important;
 }
+.app-right .friends {
+        background: rgba(0,0,0,0.2);        
+       
+}
+#chat-header {
+  background: rgba(30,35,40,0);
+  border: none !important;
+} 
+#chat-header, #user-list .header, #waitlist .header {
+          background-color: transparent;
+          border-bottom: transparent;
+
+}
+#chat-header .divider {
+              background: none;
+
+}
+
+#chat-messages {
+  border-color: transparent;
+  box-shadow: 0 0px 0 rgba(30,35,40,0.1);
+}
+
+
+#chat .cm {
+  background: transparent;
+  box-shadow: inset 0px 0px 0px 0 hsla(220,10%,20%,0.7)
+       
+}
+#chat .cm.message:nth-child(2n+1) {
+  background: transparent;
+  box-shadow: inset 0px 0px 0px 0 hsla(220,10%,0%,0.7);
+}
+#chat .cm .badge-box {
+  background: rgba(0,0,0,0) !important;
+}
+
+
+
+#p3-dj-booth {
+        left: 20px;
+        top: 110px;
+
+}
+#waitlist .list .user {
+        background: transparent;
+
+}
+#room-settings .general-settings {
+        background: rgba(0,0,0,0.6);
+
+}
+#media-panel .header {
+        Background: rgba(0,0,0,0.6);
+
+}
+#user-view .user-content {
+        background: rgba(0,0,0,0.6);
+
+}
+.media-list {
+        background: rgba(0,0,0,0.6);
+
+}
+
+
+
+.app-right .friends .list-header {
+        border-bottom: transparent;
+
+}
+#app-menu .button, #room .friends.has-requests .header {
+  background: transparent;
+  box-shadow: none;
+}
+#app-menu .button:hover, #room .friends.has-requests .header:hover {
+  background: linear-gradient(to right, hsl(210,100%,40%), hsl(210,100%,30%));
+}
+#app-menu .list {
+  background: rgba(0,0,0,0.6);
+}
+#app-menu .list .item {
+  box-shadow: none;
+}
+#app-menu .list .item:hover {
+  box-shadow: inset 0 0 7px 0px hsla(0,0%,100%,0.5);
+  background: linear-gradient(to right, hsl(210,100%,20%), hsl(200,100%,20%));
+}
+#app-menu .list .logout {
+  background: hsl(220,10%,15%);
+}
+#app-menu .list .logout:hover {
+  background: linear-gradient(to right, hsl(10,90%,20%), hsl(0,90%,20%));
+  box-shadow: 0 0 5px #000;
+  border: 1px solid #F55;
+}
+
+
