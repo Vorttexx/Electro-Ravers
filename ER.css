@@ -266,3 +266,9 @@ background: #c42e3b;
   -o-animation: fadein 0.3s;
   animation: fadein 0.3s;
 }
+
+/*CHAT*/
+
+.app-right {
+  background: rgba(0,0,0,0) !important;
+}
