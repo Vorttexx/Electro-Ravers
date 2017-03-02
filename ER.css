@@ -304,6 +304,12 @@
   background: linear-gradient(rgba(0,0,0,0)70%, hsla(0,0%,100%,0.2) 80%),
   url(https://media3.giphy.com/media/BWfe2DJRX1DQ4/200.webp#277);
 }
+#user-inventory .avatars .grid .cell.selected .top {
+  background: linear-gradient(rgba(0,0,0,0)70%, hsla(0,0%,100%,0.2) 80%),
+  url(https://media1.giphy.com/media/cfowxOOmV45fq/200w.webp#29);
+  background-size: 185px 175px;
+       
+}
 .user-content .badges .cell {
   background: radial-gradient(hsl(210,10%,10%), hsl(210,10%,5%)), url(http://i.imgur.com/j7fnxpL.gif) !important;
   box-shadow: inset 0 0 30px #000;
