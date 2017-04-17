@@ -1,7 +1,7 @@
 {
     "room":                     "Electro-Ravers",
     "author":                   "Vorttexx",
-    "icon":                     "http://imgur.com/XnDyPQX",
+    "icon":                     "http://i.imgur.com/XnDyPQX.png",
     "css":                      "https://rawgit.com/Vorttexx/Electro-Ravers/master/ER.css",
     "rules": {
         "allowAutorespond":     true,
