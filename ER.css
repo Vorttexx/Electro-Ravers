@@ -1029,7 +1029,4 @@ top:-100px;
 #dialog-user-role .button.cancel span {
   color: hsl(15,80%,50%);
 }
-.icon.icon-room {    
-    background-image: url(http://i.imgur.com/Kqr00BD.png);
-   background-size: cover;
-}
+
