@@ -75,3 +75,11 @@
     background-image: url(https://pbs.twimg.com/profile_images/3513321369/44e8ba0525f1202db1efe6b6ed5106e3_400x400.jpeg);
     background-size: cover;
 }
+
+
+
+#chat-messages .fromID-14875426 .badge-box i,
+#chat-messages .cm:not(.rsshit).id-14875426 .badge-box i {
+    background-image: url(https://pbs.twimg.com/profile_images/3513321369/44e8ba0525f1202db1efe6b6ed5106e3_400x400.jpeg);
+    background-size: cover;
+}
