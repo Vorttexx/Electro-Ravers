@@ -80,7 +80,7 @@
 
 }*/
 #playback .background img{
-  background: url(https://i.imgur.com/oBY00Z3.png);
+  background: url(https://i.imgur.com/oBY00Z3.png)no-repeat !important;
   visibility:visible;
 }
 #user-menu .avatar {
