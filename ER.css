@@ -79,10 +79,10 @@
         background: transparent;
 
 }*/
-/*#playback .background img{
+#playback .background img{
   background: url(https://i.imgur.com/oBY00Z3.png)no-repeat !important;
   visibility:visible;
-}*/
+}
 #user-menu .avatar {
   background: url(https://media1.giphy.com/media/cfowxOOmV45fq/200w.webp#29),linear-gradient(rgba(0,0,0,0)70%, hsla(140,50%,90%,0.4) 80%),
   linear-gradient(hsl(200,70%,20%), hsl(140,70%,20%)) !important;
